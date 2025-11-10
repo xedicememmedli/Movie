@@ -8,6 +8,9 @@ namespace APA201.Interfaces
 {
     public interface IPlayable
     {
+      
+        void Play();
+        void Stop();  
 
     }
 }
