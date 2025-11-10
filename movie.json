@@ -1,0 +1,34 @@
+[
+  {
+    "_title": "Die Hard",
+    "_year": 1988,
+    "Genre": 0,
+    "Watched": false,
+    "Title": "Die Hard",
+    "Year": 1988
+  },
+  {
+    "_title": "The Hangover",
+    "_year": 2009,
+    "Genre": 1,
+    "Watched": false,
+    "Title": "The Hangover",
+    "Year": 2009
+  },
+  {
+    "_title": "The Shawshank Redemption",
+    "_year": 1994,
+    "Genre": 2,
+    "Watched": false,
+    "Title": "The Shawshank Redemption",
+    "Year": 1994
+  },
+  {
+    "_title": "The Conjuring",
+    "_year": 2013,
+    "Genre": 3,
+    "Watched": false,
+    "Title": "The Conjuring",
+    "Year": 2013
+  }
+]
