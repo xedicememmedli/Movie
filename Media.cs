@@ -41,9 +41,6 @@ namespace APA201.Models
         }
 
         public abstract void DisplayInfo();
-        public virtual void GetSUMARY()
-        {
-        Console.WriteLine($"(Title) | (Year)");
-        }
+       
     }
 }
